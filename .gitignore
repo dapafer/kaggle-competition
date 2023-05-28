@@ -21,3 +21,7 @@ password.py
 *.h5
 *.parquet
 
+
+
+train_EDA_1.csv
+test_EDA_1.csv
