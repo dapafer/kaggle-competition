@@ -1,6 +1,6 @@
 # 🏇 **KAGGLE competition.**
 
-![portada](https://github.com/dapafer/...)
+![portada](https://github.com/dapafer/kaggle-competition/blob/main/images/competition.png)
 
 Este proyecto tiene como objetivo predecir el precio de portátiles, en base a sus caractertísticas. Teniendo en cuenta las variables, realizaremos un Análisis Exploratorio de los Datos (EDA), para validar el contenido del dataframe, y realizar las correspondientes transformaciones a los datos. Teniendo el contenido limpio y transformado, procederemos a entrenar los datos, para posteriormente aplicar el modelo, y generar predicciones.
 
@@ -9,7 +9,6 @@ Este proyecto tiene como objetivo predecir el precio de portátiles, en base a s
 
 - [Contenido.](#cont)
 - [Objetivos.](#objs)
-- 
 
 ---
 <a name="cont"/>
