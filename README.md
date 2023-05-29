@@ -1,4 +1,4 @@
-# 🏇 **KAGGLE competition.**
+# 🏇 **KAGGLE competition**
 
 ![portada](https://github.com/dapafer/kaggle-competition/blob/main/images/competition.png)
 
